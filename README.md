@@ -5,7 +5,7 @@ Any comments/suggestions about this dataset are welcome. Please feel free to ema
 
 # How will the data be updated! 
 
-We are excited to share that the original dataset is available in the repository and can be readily used for any macroeconomic analysis on Pakistan's economy. Furthermore, we will be adding more variables to this dataset overtime. The updated data will be available on April 15, 2024. After that the data will be updated at the end of each quarter, that is 15th day after the end of each calendar quarter. 
+We are excited to share that the original dataset is available in the repository and can be readily used for any macroeconomic analysis on Pakistan's economy. Furthermore, we will be adding more variables to this dataset overtime. The next update of data will be available on July 15, 2024. After that the data will be updated at the end of each quarter, that is 15th day after the end of each calendar quarter. 
 
 # More exciting news! 
 
